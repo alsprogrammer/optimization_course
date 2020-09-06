@@ -1,2 +1,2 @@
 # optimization_course
-A set og Jupyter notebooks for Optimization course
+A set of Jupyter notebooks for Optimization course
